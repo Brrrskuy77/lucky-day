@@ -1,0 +1,35 @@
+{
+  "name": "lucky-day",
+  "version": "1.0.0",
+  "description": "Lucky day for July 2024 Wish",
+  "main": "index.js",
+  "scripts": {
+    "test": "Luckyday"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/lucky-day.git"
+  },
+  "keywords": [
+    "Wish",
+    "me",
+    "Lucky",
+    "Day",
+    "in",
+    "July",
+    "2024"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/lucky-day/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/lucky-day#readme",
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.38"
+  }
+}
